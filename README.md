@@ -45,41 +45,8 @@ The data was analyzed in Microsoft Excel, and the visualizations(graphs and char
 
 1.After having imported the data in Sql, write down the following query in the sql terminal:
   
-  SELECT
-	ord.order_id,
-	CONCAT(cus.first_name,' ',cus.last_name) AS 'customers',
-	cus.city,
-	cus.state,
-	ord.order_date,
-	SUM(ite.quantity) AS 'total_units',
-	SUM(ite.quantity * ite.list_price) AS 'revenue',
-	pro.product_name,
-	cat.category_name,
-	sto.store_name,
-	CONCAT(sta.first_name,' ',sta.last_name) AS 'sales_rep'
-	FROM sales.orders ord
-	JOIN sales.customers cus
-	ON ord.customer_id = cus.customer_id
-	JOIN sales.order_items ite
-	ON ord.order_id = ite.order_id
-	JOIN production.products pro
-	ON ite.product_id = pro.product_id
-	JOIN production.categories cat
-	ON pro.category_id = cat.category_id
-	JOIN sales.stores sto
-	ON ord.store_id = sto.store_id
-	JOIN sales.staffs sta
-	ON ord.staff_id = sta.staff_id
-	GROUP BY 
-	ord.order_id,
-	CONCAT(cus.first_name,' ',cus.last_name),
-	cus.city,
-	cus.state,
-	ord.order_date,
-    pro.product_name,
-	cat.category_name,
-	sto.store_name,
-	CONCAT(sta.first_name,' ',sta.last_name)
+ The query which i wrote is available here:
+ https://github.com/SharadNigam/Project_On_BikeStores_data/blob/main/SQLQuery2.sql
   
   **_This will basically give you a table containing order_id,customer names (with their first and last names joined into one column), City, State, roder_date, total_units, revenue, product_name,category_name,store_name,sales_rep_**
  
