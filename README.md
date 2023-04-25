@@ -55,4 +55,4 @@ The data was analyzed in Microsoft Excel, and the visualizations(graphs and char
 3.Analyze the data for the above questions using pivot tables and filtering followed by charts/graphs creations.
 
 <h3>FINAL THOUGHTS</h3>
-  It was lot of fun and education filled project, i have attached my completed excel file with everything completed in it for if anyone feels lost or needs to cross verify their findings with mine.
+  It was lot of fun and education filled project, i have attached my completed excel file named **'BikeStores.xlsx'** with everything completed in it for if anyone feels lost or needs to cross verify their findings with mine.
