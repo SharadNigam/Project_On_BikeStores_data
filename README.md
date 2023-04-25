@@ -1,7 +1,7 @@
 
-# Project On BikeStores Data
+<h1> Project On BikeStores Data </h1>
 
-<h1>METHODOLOGY</h1>
+<h3>METHODOLOGY</h3>
   
  
 (_These are basically the steps i followed for the project_)
@@ -41,7 +41,7 @@ The data was already clean in this case so verification of the data was done her
 
 The data was analyzed in Microsoft Excel, and the visualizations(graphs and charts) were also made there.
 
-<h1> STEPS IF YOU WISH TO RECREATE THIS PROJECT </h1>
+<h3> STEPS IF YOU WISH TO RECREATE THIS PROJECT </h3>
 
 1.After having imported the data in Sql, write down the following query in the sql terminal:
   
@@ -87,5 +87,5 @@ The data was analyzed in Microsoft Excel, and the visualizations(graphs and char
 
 3.Analyze the data for the above questions using pivot tables and filtering followed by charts/graphs creations.
 
-<h1>FINAL THOUGHTS</h1>
+<h3>FINAL THOUGHTS</h3>
   It was lot of fun and education filled project, i have attached my completed excel file with everything completed in it for if anyone feels lost or needs to cross verify their findings with mine.
