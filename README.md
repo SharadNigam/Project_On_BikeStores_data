@@ -8,7 +8,9 @@
 
 
 **1.Understanding the problem**
-_Here we are asking and understanding what the company wants us to do_
+
+
+_Here we are understanding what the company wants us to do, what questions we have to solve for._
 
 For this project the company wanted to know the following questions:
 * Condition of sales activity within the company
@@ -47,6 +49,8 @@ The data was analyzed in Microsoft Excel, and the visualizations(graphs and char
   
  The query which i wrote is available here:
  https://github.com/SharadNigam/Project_On_BikeStores_data/blob/main/SQLQuery2.sql
+ ![query](https://user-images.githubusercontent.com/131772248/234365869-9c57f8f9-7c7f-42b5-8357-6bf55553d7f7.JPG)
+
   
   **_This will basically give you a table containing order_id,customer names (with their first and last names joined into one column), City, State, roder_date, total_units, revenue, product_name,category_name,store_name,sales_rep_**
  
