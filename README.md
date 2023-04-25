@@ -60,3 +60,8 @@ The data was analyzed in Microsoft Excel, and the visualizations(graphs and char
 
 <h3>FINAL THOUGHTS</h3>
   It was lot of fun and education filled project, i have attached my completed excel file named 'BikeStores.xlsx' with everything completed in it for if anyone feels lost or needs to cross verify their findings with mine.
+  Here is a sneak peek on the final dashboard:
+  
+  
+![Completed Dashboard of Excel](https://user-images.githubusercontent.com/131772248/234366259-53b695a2-8fea-4c10-83dd-c84999c0bc11.JPG)
+
