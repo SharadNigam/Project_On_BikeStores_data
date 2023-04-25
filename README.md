@@ -21,7 +21,7 @@ For this project the company wanted to know the following questions:
 
 **2.Collecting and Gathering the Data**
 
-Data was collected from their open source site, and i have uploaded the sql querry files which you can run to obtain the same.
+Data was collected from their open source site, and i have uploaded the sql query files in the folder 'dataset' which you can run to obtain the same.
 To do it follow this process:
 1. Open SQL server, create a new database and name it BikeStores
 2. Select the new BikeStores database in the SQL server
